@@ -56,9 +56,9 @@ body {
 
 
    .line { 
-    border-left: 3px solid #000; /* Параметры линии */ 
-    margin-left: 17px; /* Отступ слева */
-    padding-left: 15px; /* Расстояние от линии до текста */ 
+    border-left: 3px solid #000; /* РџР°СЂР°РјРµС‚СЂС‹ Р»РёРЅРёРё */ 
+    margin-left: 17px; /* РћС‚СЃС‚СѓРї СЃР»РµРІР° */
+    padding-left: 15px; /* Р Р°СЃСЃС‚РѕСЏРЅРёРµ РѕС‚ Р»РёРЅРёРё РґРѕ С‚РµРєСЃС‚Р° */ 
    }
 
 
@@ -279,7 +279,7 @@ details summary {
 
 
 
-										/* ГЛАВНОЕ ВЕРХНЕЕ МЕНЮ */
+										/* Р“Р›РђР’РќРћР• Р’Р•Р РҐРќР•Р• РњР•РќР® */
 
 
 .site-nav a {
@@ -447,11 +447,11 @@ header::after {
 
 
 
-					/* Кнопки с выпадающим меню  PDA */
+					/* РљРЅРѕРїРєРё СЃ РІС‹РїР°РґР°СЋС‰РёРј РјРµРЅСЋ  PDA */
 
 
 
-/* Первое меню */
+/* РџРµСЂРІРѕРµ РјРµРЅСЋ */
 
 .dropbtn1 {
     background-color: #46465500;
@@ -542,7 +542,7 @@ header::after {
 
 
 
-/* Второе меню */
+/* Р’С‚РѕСЂРѕРµ РјРµРЅСЋ */
 
 .dropbtn2 {
     background-color: #46465500;
@@ -693,11 +693,11 @@ header {
 
 
 
-					/* Кнопки с выпадающим меню >888 */
+					/* РљРЅРѕРїРєРё СЃ РІС‹РїР°РґР°СЋС‰РёРј РјРµРЅСЋ >888 */
 
 
 
-/* Первое меню */
+/* РџРµСЂРІРѕРµ РјРµРЅСЋ */
 
 .dropbtn1 {
     background-color: #000000;
@@ -768,7 +768,7 @@ header {
 
 
 
-/* Второе меню */
+/* Р’С‚РѕСЂРѕРµ РјРµРЅСЋ */
 
 .dropbtn2 {
     background-color: #000000;
@@ -960,11 +960,11 @@ header::after {
 
 
 
-					/* Кнопки с выпадающим меню  <888 */
+					/* РљРЅРѕРїРєРё СЃ РІС‹РїР°РґР°СЋС‰РёРј РјРµРЅСЋ  <888 */
 
 
 
-/* Первое меню */
+/* РџРµСЂРІРѕРµ РјРµРЅСЋ */
 
 .dropbtn1 {
     background-color: #464655;
@@ -1041,7 +1041,7 @@ header::after {
 
 
 
-/* Второе меню */
+/* Р’С‚РѕСЂРѕРµ РјРµРЅСЋ */
 
 .dropbtn2 {
     background-color: #464655;
@@ -1628,7 +1628,7 @@ hr {
 
 
 
-/* КНИГи */ 
+/* РљРќРР“Рё */ 
 
 
 
@@ -1697,15 +1697,15 @@ hr {
 
 
 
-/* ПЕРВАЯ КНИГА */ 
+/* РџР•Р Р’РђРЇ РљРќРР“Рђ */ 
 
 
 
 .audit-pic1 {
  box-sizing: border-box;
     border: 2px solid grey;
-    float: left; /* Обтекание по правому краю */
-    width: 48%; /* Ширина слоя */
+    float: left; /* РћР±С‚РµРєР°РЅРёРµ РїРѕ РїСЂР°РІРѕРјСѓ РєСЂР°СЋ */
+    width: 48%; /* РЁРёСЂРёРЅР° СЃР»РѕСЏ */
     min-width: 290px;
 }
 
@@ -1737,19 +1737,19 @@ hr {
 
 
 
-/* между книгами */ 
+/* РјРµР¶РґСѓ РєРЅРёРіР°РјРё */ 
 
 
 .audit-pic0 {
  box-sizing: border-box;
     border: 1px solid white;
-    float: left; /* Обтекание по правому краю */
-    min-width: 4%;/* Ширина слоя */
+    float: left; /* РћР±С‚РµРєР°РЅРёРµ РїРѕ РїСЂР°РІРѕРјСѓ РєСЂР°СЋ */
+    min-width: 4%;/* РЁРёСЂРёРЅР° СЃР»РѕСЏ */
 }
 
 
 
-/* ВТОРАЯ КНИГА */ 
+/* Р’РўРћР РђРЇ РљРќРР“Рђ */ 
 
 
 
@@ -1762,8 +1762,8 @@ hr {
 .audit-pic2 {
  box-sizing: border-box;
     border: 2px solid grey;
-    float: left; /* Обтекание по правому краю */
-    width: 48%; /* Ширина слоя */
+    float: left; /* РћР±С‚РµРєР°РЅРёРµ РїРѕ РїСЂР°РІРѕРјСѓ РєСЂР°СЋ */
+    width: 48%; /* РЁРёСЂРёРЅР° СЃР»РѕСЏ */
     min-width: 290px;
 }
 
@@ -1803,10 +1803,10 @@ hr {
 
 .link {
      position: absolute;
-     width: 40%; /* Ширина слоя */
+     width: 40%; /* РЁРёСЂРёРЅР° СЃР»РѕСЏ */
      min-width: 120px;
-     height: 40px; /* Высота слоя */
-     background: #0564bc; /* Цвет фона */
+     height: 40px; /* Р’С‹СЃРѕС‚Р° СЃР»РѕСЏ */
+     background: #0564bc; /* Р¦РІРµС‚ С„РѕРЅР° */
      border-radius: 5px;
      bottom: 4%;
      margin-left: 25%;
@@ -1823,7 +1823,7 @@ hr {
 
 
  .link a:hover {
-    background: #67b4fb; /* Цвет фона под ссылкой */ 
+    background: #67b4fb; /* Р¦РІРµС‚ С„РѕРЅР° РїРѕРґ СЃСЃС‹Р»РєРѕР№ */ 
     border-radius: 5px;
    } 
 
@@ -1886,7 +1886,7 @@ td li {
 
 
 
-/* картинки слева и справа */ 
+/* РєР°СЂС‚РёРЅРєРё СЃР»РµРІР° Рё СЃРїСЂР°РІР° */ 
 
 
 
@@ -2086,7 +2086,7 @@ td li {
 
 
 
-/* 1-я иконка */ 
+/* 1-СЏ РёРєРѕРЅРєР° */ 
 
 
 
@@ -2136,7 +2136,7 @@ td li {
 
 
 
-/* 2-я иконка */ 
+/* 2-СЏ РёРєРѕРЅРєР° */ 
 
 
 .ico2-img {
@@ -2182,7 +2182,7 @@ td li {
 }
 
 
-/* 3-я иконка */ 
+/* 3-СЏ РёРєРѕРЅРєР° */ 
 
 .ico3-img {
 	margin-top: 1em;
@@ -2228,7 +2228,7 @@ td li {
 
 
 
-/* 4-я иконка */ 
+/* 4-СЏ РёРєРѕРЅРєР° */ 
 
 .ico4-img {
 	margin-top: 1em;
@@ -2329,9 +2329,9 @@ td li {
 
 
  .speak {
-    background: #CBD8E0; /* Цвет фона */
-    color: #000000; /* Цвет текста */
-    padding: 20px; /* Поля вокруг текста */ 
+    background: #CBD8E0; /* Р¦РІРµС‚ С„РѕРЅР° */
+    color: #000000; /* Р¦РІРµС‚ С‚РµРєСЃС‚Р° */
+    padding: 20px; /* РџРѕР»СЏ РІРѕРєСЂСѓРі С‚РµРєСЃС‚Р° */ 
     border-radius: 20px;
    }
 
@@ -2376,10 +2376,10 @@ td li {
   transition: 0.3s;
 }
 .read-more-checker ~ .read-more-button:before {
-  content: "Развернуть »"
+  content: "Р Р°Р·РІРµСЂРЅСѓС‚СЊ В»"
 }
 .read-more-checker:checked ~ .read-more-button:before {
-  content: "Свернуть «";
+  content: "РЎРІРµСЂРЅСѓС‚СЊ В«";
 }
 .read-more-button {
   cursor: pointer;
@@ -2482,7 +2482,7 @@ td li {
 }
 .videoblock {
   position: relative;
-  padding-bottom: 56.25%; /*для видео из соотношением экрана 16:9*/
+  padding-bottom: 56.25%; /*РґР»СЏ РІРёРґРµРѕ РёР· СЃРѕРѕС‚РЅРѕС€РµРЅРёРµРј СЌРєСЂР°РЅР° 16:9*/
   height: 0;
   overflow: hidden;
 }
@@ -2518,22 +2518,22 @@ div.scrollup {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  color: #fff; /* цвет текста */
-  background-color: #000000; /* цвет заднего фона */
+  color: #fff; /* С†РІРµС‚ С‚РµРєСЃС‚Р° */
+  background-color: #000000; /* С†РІРµС‚ Р·Р°РґРЅРµРіРѕ С„РѕРЅР° */
   margin-left: 92.5%;
-  bottom: 5%; /* расстояние от нижнего края */
+  bottom: 5%; /* СЂР°СЃСЃС‚РѕСЏРЅРёРµ РѕС‚ РЅРёР¶РЅРµРіРѕ РєСЂР°СЏ */
   padding-left: 5px;
   padding-right: 5px;
   padding-bottom: 5px;
   padding-top: 4px;
   font-size:8px;
-  border-top-left-radius: 5px; /* скругление верхнего левого угла */
-  border-top-right-radius: 5px; /* скругление верхнего правого угла */
+  border-top-left-radius: 5px; /* СЃРєСЂСѓРіР»РµРЅРёРµ РІРµСЂС…РЅРµРіРѕ Р»РµРІРѕРіРѕ СѓРіР»Р° */
+  border-top-right-radius: 5px; /* СЃРєСЂСѓРіР»РµРЅРёРµ РІРµСЂС…РЅРµРіРѕ РїСЂР°РІРѕРіРѕ СѓРіР»Р° */
   border-bottom-left-radius: 5px; 
   border-bottom-right-radius: 5px; 
-  cursor: pointer; /* форма курсора */
-  display: none; /* не отображать элемент */
-  text-align: center; /*выравнивание содержимого элемента по центру */
+  cursor: pointer; /* С„РѕСЂРјР° РєСѓСЂСЃРѕСЂР° */
+  display: none; /* РЅРµ РѕС‚РѕР±СЂР°Р¶Р°С‚СЊ СЌР»РµРјРµРЅС‚ */
+  text-align: center; /*РІС‹СЂР°РІРЅРёРІР°РЅРёРµ СЃРѕРґРµСЂР¶РёРјРѕРіРѕ СЌР»РµРјРµРЅС‚Р° РїРѕ С†РµРЅС‚СЂСѓ */
   width: 34px;
 }
 }
@@ -2546,22 +2546,22 @@ div.scrollup {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  color: #fff; /* цвет текста */
-  background-color: #000000; /* цвет заднего фона */
+  color: #fff; /* С†РІРµС‚ С‚РµРєСЃС‚Р° */
+  background-color: #000000; /* С†РІРµС‚ Р·Р°РґРЅРµРіРѕ С„РѕРЅР° */
   margin-left: 86.5%;
-  bottom: 5%; /* расстояние от нижнего края */
+  bottom: 5%; /* СЂР°СЃСЃС‚РѕСЏРЅРёРµ РѕС‚ РЅРёР¶РЅРµРіРѕ РєСЂР°СЏ */
   padding-left: 7px;
   padding-right: 7px;
   padding-bottom: 10px;
   padding-top: 6px;
   font-size:12px;
-  border-top-left-radius: 10px; /* скругление верхнего левого угла */
-  border-top-right-radius: 10px; /* скругление верхнего правого угла */
+  border-top-left-radius: 10px; /* СЃРєСЂСѓРіР»РµРЅРёРµ РІРµСЂС…РЅРµРіРѕ Р»РµРІРѕРіРѕ СѓРіР»Р° */
+  border-top-right-radius: 10px; /* СЃРєСЂСѓРіР»РµРЅРёРµ РІРµСЂС…РЅРµРіРѕ РїСЂР°РІРѕРіРѕ СѓРіР»Р° */
   border-bottom-left-radius: 10px; 
   border-bottom-right-radius: 10px; 
-  cursor: pointer; /* форма курсора */
-  display: none; /* не отображать элемент */
-  text-align: center; /*выравнивание содержимого элемента по центру */
+  cursor: pointer; /* С„РѕСЂРјР° РєСѓСЂСЃРѕСЂР° */
+  display: none; /* РЅРµ РѕС‚РѕР±СЂР°Р¶Р°С‚СЊ СЌР»РµРјРµРЅС‚ */
+  text-align: center; /*РІС‹СЂР°РІРЅРёРІР°РЅРёРµ СЃРѕРґРµСЂР¶РёРјРѕРіРѕ СЌР»РµРјРµРЅС‚Р° РїРѕ С†РµРЅС‚СЂСѓ */
   height: 72px;
   width: 80px;
 }
@@ -2570,7 +2570,7 @@ div.scrollup {
 
 
 div.scrollup:hover {
-  background-color: #000; /* цвет заднего фона при наведении */
+  background-color: #000; /* С†РІРµС‚ Р·Р°РґРЅРµРіРѕ С„РѕРЅР° РїСЂРё РЅР°РІРµРґРµРЅРёРё */
 }
 
 
