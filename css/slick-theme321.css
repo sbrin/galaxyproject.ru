@@ -1,4 +1,4 @@
-п»ї@charset 'UTF-8';
+﻿@charset 'UTF-8';
 /* Slider */
 .slick-loading .slick-list
 {
@@ -208,11 +208,11 @@
 }
 .slick-prev:before
 {
-    content: 'в†ђ';
+    content: '←';
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: 'в†’';
+    content: '→';
 }
 
 .slick-next
@@ -226,11 +226,11 @@
 }
 .slick-next:before
 {
-    content: 'в†’';
+    content: '→';
 }
 [dir='rtl'] .slick-next:before
 {
-    content: 'в†ђ';
+    content: '←';
 }
 
 
@@ -362,7 +362,7 @@
     height: 20px;
 
 
-    content: 'вЂў';
+    content: '•';
 
     text-align: center;
 
