@@ -2838,3 +2838,26 @@ cursor: pointer;
     margin-right: 0;
 }
 }
+
+@media screen and (orientation: landscape) {
+.container2 {
+	display: flex;
+	justify-content: center;
+ 	z-index: 10;
+	margin-left:6%;
+	margin-right:8%;
+	position: relative;
+}
+}
+
+
+@media screen and (orientation: portrait) {
+.container2 {
+	display: flex;
+	justify-content: center;
+ 	z-index: 10;
+	margin-left:0%;
+	margin-right:0%;
+	position: relative;
+}
+}
