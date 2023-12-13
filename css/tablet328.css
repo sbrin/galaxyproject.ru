@@ -1,0 +1,200 @@
+.tablet {
+  box-sizing: border-box;
+      margin: 0 auto;
+
+      width: 100%;
+
+
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  position: relative;
+  float: left;
+  width: 100%;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  padding: 0 8px;
+}
+
+@media screen and (orientation: portrait) {
+  .column {
+    margin-bottom: 16px;
+    padding: 8px 16px;
+  }
+}
+
+.card {
+  text-align: center;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  min-height: 480px;
+  border-radius: 10px;
+}
+
+@media screen and (orientation: portrait) {
+.card {
+  min-height: 800px;
+  border-radius: 20px;
+}
+}
+
+.containert {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+}
+
+.containert p {
+  color:#000000;
+}
+
+.containert::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  cursor: pointer;
+  width: 90%;
+  position: absolute;
+  bottom: 16px;
+  margin: auto;
+  left: 5%;  
+  right: 5%;
+  border: 3px solid #000;
+  border-radius: 10px;
+  transition: .5s ease;
+}
+
+@media screen and (orientation: landscape) {
+.button {
+  max-width: 300px;
+}
+}
+
+.button:hover {
+  background-color: #E3E2E2;
+}
+
+
+.tablet-img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+@media screen and (orientation: landscape) {
+.tablet-img {
+  max-width: 300px;
+}
+}
+
+@media screen and (orientation: landscape) {
+.button {
+  font-size:20px;
+}
+}
+
+@media screen and (orientation: portrait) {
+.button {
+  height: 80px;
+  font-size:40px;
+  text-indent:0px;
+  border: 6px solid #000;
+  border-radius: 20px;
+}
+}
+
+@media screen and (orientation: landscape) {
+.containert h4{
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	padding-top: 10px;
+}
+}
+
+@media screen and (orientation: landscape) {
+.containert h5 {
+	padding-top:8px;
+	color:#000000;
+	font-weight:normal;
+	font-size:16px;
+}
+}
+
+@media screen and (orientation: portrait) {
+.containert h4{
+	color:#000000;
+	font-weight:bold;
+	font-size:44px;
+	padding-top:10px;
+}
+}
+
+
+@media screen and (orientation: portrait) {
+.containert h5 {
+	padding-top:10px;
+	color:#000000;
+	font-weight:normal;
+	font-size:40px;
+}
+}
+
+
+@media screen and (orientation: landscape) and (min-width: 1600px){
+.containert h4{
+	font-size:26px;
+}
+}
+
+
+
+@media screen and (orientation: landscape) and (min-width: 1600px){
+.containert h5{
+	padding-top:7px;
+	font-size:20px;
+}
+}
+
+@media screen and (orientation: landscape) and (min-width: 1900px){
+.containert h5{
+	padding-top:10px;
+	font-size:20px;
+}
+}
+
+@media screen and (orientation: landscape) and (max-width: 1600px){
+.card {
+  min-height: 400px;
+}
+}
+@media screen and (orientation: landscape) and (min-width: 1900px){
+.card {
+  min-height: 430px;
+}
+}
+@media screen and (orientation: landscape) and (min-width: 2200px){
+.card {
+  min-height: 480px;
+}
+}
