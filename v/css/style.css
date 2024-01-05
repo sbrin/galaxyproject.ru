@@ -1365,10 +1365,10 @@ div.scrollup:hover {
   transition: 0.3s;
 }
 .read-more-checker ~ .read-more-button:before {
-  content: "Развернуть >>"
+  content: "PA3BEPHYTb >>"
 }
 .read-more-checker:checked ~ .read-more-button:before {
-  content: "Свернуть <<";
+  content: "CBEPHYTb <<";
 }
 .read-more-button {
   cursor: pointer;
