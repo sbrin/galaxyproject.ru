@@ -1,0 +1,1172 @@
+/* КНИГи */ 
+
+
+
+
+
+
+
+.books {
+        box-sizing: 
+        border-box;
+	padding-left:15%;
+	padding-right:15%;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+.books {
+	padding-left:10%;
+	padding-right:10%;
+}
+}
+
+
+@media screen and (max-width: 1150px) {
+.books {
+	padding-left:7%;
+	padding-right:7%;
+}
+}
+
+
+@media screen and (max-width: 1100px) {
+.books {
+	padding-left:5%;
+	padding-right:5%;
+}
+}
+
+
+
+@media screen and (max-width: 1050px) {
+.books {
+	padding-left:3%;
+	padding-right:3%;
+}
+}
+
+
+@media screen and (max-width: 1000px) {
+.books {
+	padding-left:0%;
+	padding-right:0%;
+}
+}
+
+
+@media screen and (orientation: portrait) {
+.books {
+	padding-left:0px;
+	padding-right:0px;
+}
+}
+
+
+
+
+
+
+/* ПЕРВАЯ КНИГА */ 
+
+
+
+.audit-pic1 {
+ box-sizing: border-box;
+    border: 2px solid grey;
+    float: left; /* Обтекание по правому краю */
+    width: 100%; /* Ширина слоя */
+    min-width: 290px;
+    min-height: 290px;
+}
+
+.audit-pic1-img {
+ box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-content: flex-end;
+}
+
+
+.audit-pic1 a {
+
+    width: 100%;
+    height: 100%;
+    margin-bottom: -7px;
+
+}
+
+
+
+.audit-pic1 img {
+
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+
+.audit-pic1-text {
+ box-sizing: border-box;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+
+    text-align: left;
+    font-family: open sans;
+    font-size: 36px;
+    padding: 15px;
+
+}
+
+
+
+
+
+
+
+.link {
+     position: absolute;
+     width: 95%; /* Ширина слоя */
+     min-width: 100px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+
+
+
+
+
+
+    }
+    .link a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+.link1 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link1 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link1 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link2 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link2 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link2 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link3 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link3 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link3 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link4 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 34%;
+     margin-left: 34%;
+
+
+
+    }
+    .link4 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link4 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link5 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 25%;
+     margin-left: 34%;
+
+
+    }
+    .link5 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link5 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+.link6 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 16%;
+     margin-left: 34%;
+
+
+    }
+    .link6 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link6 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+
+
+
+
+                                                                     /* ВКЛ/ВЫКЛ */ 
+
+
+              
+
+
+
+
+.link7 {
+     position: absolute;
+     width: 80px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 55%;
+
+
+    }
+    .link7 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link7 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+
+   } 
+
+
+.link8 {
+     position: absolute;
+     width: 111px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 72%;
+
+
+    }
+    .link8 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link8 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+   } 
+
+
+
+
+
+
+.link9 {
+     position: absolute;
+     width: 80px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 61%;
+     margin-left: 55%;
+
+
+    }
+    .link9 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link9 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+   } 
+
+
+
+
+.link10 {
+     position: absolute;
+     width: 111px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 61%;
+     margin-left: 72%;
+
+
+    }
+    .link10 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link10 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+   } 
+
+
+
+
+.link11 {
+     position: absolute;
+     width: 80px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 52%;
+     margin-left: 55%;
+
+
+    }
+    .link11 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link11 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+   } 
+
+
+
+.link12 {
+     position: absolute;
+     width: 111px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 52%;
+     margin-left: 72%;
+
+
+    }
+    .link12 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link12 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+
+
+
+
+   } 
+
+
+.link13 {
+     position: absolute;
+     width: 80px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 55%;
+
+
+    }
+    .link13 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link13 a:hover {
+    background: #C0C0C0; 
+    border-radius: 0px;
+
+
+
+   } 
+
+
+
+
+.link14 {
+     position: absolute;
+     width: 111px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 72%;
+
+
+    }
+    .link14 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link14 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+
+   } 
+
+
+                                              /* НАЗАД */ 
+
+
+.link19 {
+     position: absolute;
+     width: 110px; /* Ширина слоя */
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 22%;
+     margin-left: 7%;
+
+
+    }
+    .link19 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link19 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+
+   } 
+
+
+
+
+
+
+
+@media screen and (orientation: portrait) {
+
+
+.link {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     height: 110px;
+
+
+
+    }
+    .link a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+.link1 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link1 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link1 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link2 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link2 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link2 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link3 {
+     position: absolute;
+     width: 40%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 4%;
+     margin-left: 34%;
+
+
+    }
+    .link3 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link3 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link4 {
+     position: absolute;
+     width: 43%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 34%;
+     margin-left: 34%;
+     height: 100px;
+
+
+    }
+    .link4 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+   }
+ .link4 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+
+.link5 {
+     position: absolute;
+     width: 43%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 25%;
+     margin-left: 34%;
+     height: 100px;
+
+
+    }
+    .link5 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link5 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   } 
+
+.link6 {
+     position: absolute;
+     width: 43%; /* Ширина слоя */
+     min-width: 120px;
+     height: 40px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 16%;
+     margin-left: 34%;
+     height: 100px;
+
+
+    }
+    .link6 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+   }
+ .link6 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+   }
+
+
+
+
+
+
+
+.full-img {
+     width: 100%; 
+}
+
+
+
+
+
+
+
+@media screen and (orientation: portrait) {
+
+
+
+.link7 {
+     position: absolute;
+     width: 200px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 58%;
+
+
+    }
+    .link7 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link7 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 95%;
+
+
+
+   } 
+
+
+.link8 {
+     position: absolute;
+     width: 260px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 75%;
+
+
+    }
+    .link8 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link8 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 97%;
+
+
+
+   } 
+
+
+
+
+
+
+.link9 {
+     position: absolute;
+     width: 200px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 62%;
+     margin-left: 58%;
+
+
+    }
+    .link9 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link9 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 95%;
+
+
+
+   } 
+
+
+
+
+.link10 {
+     position: absolute;
+     width: 260px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 62%;
+     margin-left: 75%;
+
+
+    }
+    .link10 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link10 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 96%;
+
+
+
+   } 
+
+
+
+
+.link11 {
+     position: absolute;
+     width: 200px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 54%;
+     margin-left: 58%;
+
+
+    }
+    .link11 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link11 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 95%;
+
+
+
+   } 
+
+
+
+.link12 {
+     position: absolute;
+     width: 260px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 54%;
+     margin-left: 75%;
+
+
+    }
+    .link12 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link12 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 96%;
+   } 
+
+
+
+
+.link13 {
+     position: absolute;
+     width: 200px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 58%;
+
+
+    }
+    .link13 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link13 a:hover {
+    background: #C0C0C0; 
+     width: 95%;
+
+
+
+   } 
+
+
+
+
+.link14 {
+     position: absolute;
+     width: 260px; /* Ширина слоя */
+     height: 80px; /* Высота слоя */
+     background: #C0C0C0; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 70%;
+     margin-left: 75%;
+
+
+    }
+    .link14 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #000000;
+   }
+ .link14 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+     width: 96%;
+
+
+
+   } 
+
+
+
+
+
+
+.link19 {
+     position: absolute;
+     width: 260px; /* Ширина слоя */
+     height: 85px; /* Высота слоя */
+     background: #0A0A0A; /* Цвет фона */
+     border-radius: 0px;
+     bottom: 22%;
+     margin-left: 7%;
+
+
+    }
+    .link19 a {
+     padding-top: 0px;
+     text-decoration: none;
+     display: block;
+     text-align: LEFT;
+     padding-left: 10px;
+     height: 100%;
+     font-size:50px;
+     color: #ffffff;
+   }
+ .link19 a:hover {
+    background: #C0C0C0; /* Цвет фона под ссылкой */ 
+    border-radius: 0px;
+
+
+
+   } 
+
+
+
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
